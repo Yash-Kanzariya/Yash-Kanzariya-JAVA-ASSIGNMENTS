@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash Kanzariya
 - 👀 I’m interested in cyber security...
-- 🌱 I’m currently learning JAVA Devloper Training Program At Tops Technologies At Ahemdabad...
-- 📫 BCA Student Of CU Shah University At Surendranagar...
+- 🌱 I’m currently MSc Cyber Security & Digital Forensics at Rashtriya Raksha University
+
 
 <!---
 Yash-Kanzariya/Yash-Kanzariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
